@@ -1,14 +1,11 @@
 # rick-and-morty-app
 
-This template should help get you started developing with Vue 3 in Vite.
+SPA пиложение "The Rick and Morty" на Vue 3 с использо ванием стороннего  [API](https://rickandmortyapi.com/)
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Посмотреть [приложение](https://sunny-brigadeiros-a6eebf.netlify.app).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
