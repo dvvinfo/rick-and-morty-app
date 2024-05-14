@@ -1,0 +1,6 @@
+@import './base.css';
+
+.Page-active {
+  color: white !important;
+  border: none !important;
+}
