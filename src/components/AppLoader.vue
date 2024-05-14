@@ -1,8 +1,15 @@
 <template>
+    <div class="wrapper">
   <div class="lds-dual-ring"></div>
+</div>
 </template>
 
 <style lang="scss" scoped>
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .lds-dual-ring,
 .lds-dual-ring:after {
   box-sizing: border-box;
